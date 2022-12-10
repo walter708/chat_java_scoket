@@ -16,4 +16,4 @@ you can play aaround with friends and tweek it anyway you like
 Ensure that java is installed on you machine and its added to the enviromental 
 variable.
 
-You need some help with installation check out [here]: https://docs.oracle.com/en/java/javase/11/install/installation-jdk-microsoft-windows-platforms.html#GUID-A7E27B90-A28D-4237-9383-A58B416071CA
+You need some help with installation check out [here]:(https://docs.oracle.com/en/java/javase/11/install/installation-jdk-microsoft-windows-platforms.html#GUID-A7E27B90-A28D-4237-9383-A58B416071CA)
